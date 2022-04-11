@@ -41,3 +41,6 @@ workflows:
       email:
         recipients:
           - enesgytr@gmail.com
+git add codemagic.yaml
+git commit -m 'Add first workflow'
+git push
